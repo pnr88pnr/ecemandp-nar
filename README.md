@@ -1,2 +1,2 @@
 # ecempinar
-ekip öalışması ödev dört
+ekip calısması ödev dört
