@@ -1,2 +1,2 @@
-# ecemandp-nar
+# ecempinar
 ekip öalışması ödev dört
